@@ -1,4 +1,4 @@
-## Hi there 👋
+![banner](dsi-42-sticker linkedin banner)
 
 <h2>A Little Bit About Me and My Interests</h2>
 Seasoned professional with nine years of experience in the Hollywood Visual Effects industry. Now transitioning to Data Science, driven by a strong passion for Data Analytics and Science. Skilled in compositing 3D visual effects and adept at processing footage through colour correction and manipulation - including wire and rig removal, retouching, and actor reconstruction. Possesses a deep understanding of compositing, lighting, and problem solving, thriving in high-pressure environments while maintaining meticulous attention to detail.
