@@ -1,11 +1,11 @@
 ![banner](dsi-42-sticker_linkedin_banner.jpg)
 
 <h2>A Little Bit About Me and My Interests</h2>
-Seasoned professional with nine years of experience in the Hollywood Visual Effects industry. Now transitioning to Data Science, driven by a strong passion for Data Analytics and Science. Skilled in compositing 3D visual effects and adept at processing footage through colour correction and manipulation - including wire and rig removal, retouching, and actor reconstruction. Possesses a deep understanding of compositing, lighting, and problem solving, thriving in high-pressure environments while maintaining meticulous attention to detail.
+I am a seasoned professional with nine years of experience in the Hollywood Visual Effects industry, now transitioning to Data Science driven by a strong passion for Data Analytics and Science. I am skilled in compositing 3D visual effects and adept at processing footage through colour correction and manipulation, including wire and rig removal, retouching, and actor reconstruction. With a deep understanding of compositing, lighting, and problem-solving, I thrive in high-pressure environments while maintaining meticulous attention to detail.
 
-As an Area Tech Lead, Eugene developed Python tools and spearheaded the adoption of new technologies to enhance team performance globally and locally in Singapore. A dedicated advocate for effective communication and collaboration among teammates, Eugene is now poised to leverage his diverse skill set and enthusiasm for analytics to excel in Data Science.
+As an Area Tech Lead, I developed Python tools and spearheaded the adoption of new technologies to enhance team performance globally and locally in Singapore. I am a dedicated advocate for effective communication and collaboration among teammates, and I am now poised to leverage my diverse skill set and enthusiasm for analytics to excel in Data Science.
 
-Able to use analytic tools such as pandas, numpy, matplotlib, and seaborn. Also capable of utilising machine learning tools like sci-kit learn and tensorflow to tackle regression and classification problems. Additionally, Eugene explored Computer Vision and Natural Language Processing to contribute to business objectives.
+I am proficient in using analytic tools such as pandas, numpy, matplotlib, and seaborn. I am also capable of utilizing machine learning tools like sci-kit learn and tensorflow to tackle regression and classification problems. Additionally, I have explored Computer Vision and Natural Language Processing to contribute to business objectives.
 
 
 <h2>Some Tools I Have Used and Learned</h2>
