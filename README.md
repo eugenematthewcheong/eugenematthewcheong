@@ -1,6 +1,6 @@
-<h2> Hi! I'm Eugene Matthew Cheong. Take a look at my repo and let's connect! </h2>
 ![banner](dsi-42-sticker_linkedin_banner.jpg)
 
+<h2> Hi! I'm Eugene Matthew Cheong. Take a look at my repo and let's connect! </h2>
 <h2>A Little Bit About Me and My Interests</h2>
 I am a seasoned professional with nine years of experience in the Hollywood Visual Effects industry, now transitioning to Data Science driven by a strong passion for Data Analytics and Science. I am skilled in compositing 3D visual effects and adept at processing footage through colour correction and manipulation, including wire and rig removal, retouching, and actor reconstruction. With a deep understanding of compositing, lighting, and problem-solving, I thrive in high-pressure environments while maintaining meticulous attention to detail.
 
