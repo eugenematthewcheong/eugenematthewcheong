@@ -1,4 +1,4 @@
-<h2> Hi! I'm Eugene Matthew Cheong. Take a look at my repo and let's connect!
+<h2> Hi! I'm Eugene Matthew Cheong. Take a look at my repo and let's connect! </h2>
 ![banner](dsi-42-sticker_linkedin_banner.jpg)
 
 <h2>A Little Bit About Me and My Interests</h2>
